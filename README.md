@@ -6,4 +6,12 @@ Após criadas as classes model, escolher 2 classes que se relacionam e criar o r
 
 É essencial que esta aplicação possua as classes Bean, DAO e Controller e também as telas criadas no kivy.
 
-## Python, Kivy e MySQL
+
+- Python - Linguagem de programação;
+- Kivy - Biblioteca;
+- MySQL - Database;
+
+## Modelagem Database
+
+![Conceitual_IfroBiblio](https://user-images.githubusercontent.com/69767337/143082795-0f99b35b-d52e-4976-adda-f370044c62b4.png)
+

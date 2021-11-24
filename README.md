@@ -20,3 +20,7 @@ Após criadas as classes model, escolher 2 classes que se relacionam e criar o r
 ## Lógica
 
 ![Database_Logico_1](https://user-images.githubusercontent.com/69767337/143152968-29196823-038d-4e7a-bd0e-28be67918b01.png)
+
+## Físico
+
+![image](https://user-images.githubusercontent.com/69767337/143153094-0076398d-1537-45ac-a77c-5ee5ecc29325.png)

@@ -11,12 +11,12 @@ Após criadas as classes model, escolher 2 classes que se relacionam e criar o r
 - Kivy - Biblioteca;
 - MySQL - Database;
 
-## Modelagem Database
+# Modelagem Database
 
-# Conceitual
+## Conceitual
 
 ![image](https://user-images.githubusercontent.com/69767337/143152914-f29b13b8-f3f8-4b93-a6f4-5575cae50138.png)
 
-# Lógica
+## Lógica
 
-![Database_Logico_1](https://user-images.githubusercontent.com/69767337/143152619-547c9106-7029-48d2-9da7-e9d2d2efe6c4.png)
+![Database_Logico_1](https://user-images.githubusercontent.com/69767337/143152968-29196823-038d-4e7a-bd0e-28be67918b01.png)

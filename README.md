@@ -13,5 +13,8 @@ Após criadas as classes model, escolher 2 classes que se relacionam e criar o r
 
 ## Modelagem Database
 
-![Conceitual_IfroBiblio](https://user-images.githubusercontent.com/69767337/143082795-0f99b35b-d52e-4976-adda-f370044c62b4.png)
+- Conceitual
+![Database_Conceitual](https://user-images.githubusercontent.com/69767337/143152576-6c630117-99f5-497c-8c60-92e8d593460b.png)
 
+- Lógica
+![Database_Logico_1](https://user-images.githubusercontent.com/69767337/143152619-547c9106-7029-48d2-9da7-e9d2d2efe6c4.png)

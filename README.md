@@ -15,7 +15,7 @@ Após criadas as classes model, escolher 2 classes que se relacionam e criar o r
 
 # Conceitual
 
-![Database_Conceitual](https://user-images.githubusercontent.com/69767337/143152576-6c630117-99f5-497c-8c60-92e8d593460b.png)
+![image](https://user-images.githubusercontent.com/69767337/143152914-f29b13b8-f3f8-4b93-a6f4-5575cae50138.png)
 
 # Lógica
 

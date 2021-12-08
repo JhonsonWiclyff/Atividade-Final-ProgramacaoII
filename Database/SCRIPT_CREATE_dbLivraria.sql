@@ -1,4 +1,4 @@
-/* Database_Logico_1: */
+/* Database_Físico_1: */
 
 CREATE DATABASE dbLivraria;
 
